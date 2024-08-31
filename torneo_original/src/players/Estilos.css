@@ -1,0 +1,158 @@
+.form-control{
+   
+    max-width:40px ;
+ 
+  
+    margin-left: 750px;
+    
+    
+    
+}
+
+.Tabla,td,th{
+
+
+/* float: auto ; */ 
+max-width: 80%;
+
+/* border: 1px solid ; */
+float: auto;
+margin-left: 210px;
+/* margin-top: 655px; */
+width: 800px;
+
+}
+
+  .center-button {
+    
+     margin-left: -300px;
+   
+  }
+   .consulta{
+    
+    /* margin-right: 1180px; */
+    /* margin-top: 400px; */
+   
+   /* margin-top: -1090px; */
+  
+   font-family: 'Franklin';
+   font-size: 17px;
+   /* float: left; */
+   margin-top: -990px;
+   margin-left: 1300px;
+   
+   ;
+   
+  }
+ 
+  .color{
+    color:rgb(255, 0, 13);
+    
+    font-size: 28px;
+    font-family: cursive;
+    border-radius: 20px;
+    
+  }
+  .color-input{
+    color:black;
+    transition: width 0.8s ease;
+    width: 00px;
+    transition: all;
+    
+    font-size: 24px;
+    border-radius: 15px;
+  }
+  .color-boton{
+    background-color : orange;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  .color-rojo{
+    background-color:orangered;
+    border-radius: 10px;
+  }
+  .Documento-posicion{
+    margin-left: 48px;
+  }
+
+  .Consulta-tabla{
+/* background-color: red; */
+/* float: right; */
+/* margin-top: 50%; */
+/* margin-right:520px ; */
+width: 200px;
+
+  }
+  .color-columna{
+    background-color:grey;
+  }
+.color-formulario{
+  background: rgb(0, 255, 242);
+    width: 800px;
+    /* float: left; */
+    /* margin-right: 120px; */
+   /* float: right; */
+   margin-left: 200px;
+  
+
+  }
+  .titulo-usuario{
+  font-family:Georgia;
+  font-size: 30px;
+  background:rgb(192, 192, 192);
+  }
+  
+  .posicion-foto{
+    margin-left: 60px;
+  }
+ .col-auto{
+  width: 500px;
+  
+ }.componente-tabla{
+  background-color: Blue;
+ }
+ .Color-consulta{
+  background-color: aqua;
+  width: 810px;
+  margin-top: 20px;
+  border-radius: 20px;
+ 
+  margin-left: 200px;
+ }
+ .posicion-tabla-consulta{
+ width: 810px;
+ margin-left: 200px;
+margin-top: 10px; 
+border-radius: 30px;
+
+ }
+ .barra{
+  background:rgb(211, 206, 205);
+  /* float: auto; */
+  margin-left: 360px;
+  margin-right: 362px;
+
+ }
+.posicion-contenido{
+  margin-left: 350px;
+  font-size: 20px;
+  font-family: 'Arial Narrow';
+
+
+}
+.color{
+
+ 
+  background-color: hsl(146, 73%, 48%); /* Color de fondo inicial */
+
+  padding: 10px 10px; /* Espaciado interno */
+  font-size: 10px; /* Tamaño de fuente */
+  cursor: pointer; /* Cambiar cursor al pasar el mouse */
+  transition: background-color 0.8s; /* Transición suave */
+  color:aqua;
+  
+}
+.posicion-salir{
+  margin-left: 400px;
+
+}

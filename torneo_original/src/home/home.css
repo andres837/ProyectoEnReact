@@ -1,0 +1,50 @@
+.estilohome,h1{
+/* background: red; */
+/* background-color: grey; */
+
+/* margin-top: 50px; */
+margin-left: 100px;
+/* border-radius: 80px; */
+
+max-width: 1200px;
+font-family:  Roman;
+font-size: 50px;
+color:grey;
+
+}
+.container_1{
+  
+   
+ 
+   margin-top: 80px;
+   float: left;
+  margin-left: 150px;
+ 
+  height: 100px;
+}
+.Imagen-fondo{
+ 
+ margin-left: 2px;
+ height: 100px;
+ /* background-color: aqua; */
+ width: 1300px;
+ height: 900px;
+
+}
+.Imagen{
+    float:right ;
+    margin-right: 265px;
+    border-radius: 350px;
+   
+    height: 560px;
+}
+.sin-subrayado {
+    
+text-decoration: none; /* Elimina el subrayado */
+color:black;
+   
+}
+
+
+
+    

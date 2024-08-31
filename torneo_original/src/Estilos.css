@@ -1,0 +1,119 @@
+.form-control{
+   
+    max-width:630px ;
+ 
+  
+    margin-left: 360px;
+    
+    
+    
+}
+
+.tabla,td,th{
+background-color: rgb(119, 243, 243);
+
+/* float: auto ; */ 
+max-width: 80%;
+
+border: 1px solid ;
+float: auto;
+margin-left: 310px;
+/* margin-top: 655px; */
+width: 970px;
+
+}
+
+  .center-button .btn {
+    
+     margin-left: 660px;
+   
+  }
+   .consulta{
+    
+    /* margin-right: 1180px; */
+    /* margin-top: 400px; */
+   
+   /* margin-top: -1090px; */
+  
+   font-family: 'Franklin';
+   font-size: 17px;
+   float: left;
+   /* margin-top: 1080px; */
+   /* margin-left: 34%; */
+   ;
+   
+  }
+ 
+  .color{
+   
+    
+    font-size: 28px;
+    font-family: cursive;
+    color: black;
+   
+    
+  }
+  .color-input{
+    color:rgb(175, 90, 90);
+    transition: width 0.8s ease;
+    width: 300px;
+    transition: all;
+    
+    font-size: 24px;
+    border-radius: 15px;
+  }
+  .color-boton{
+    background-color : orange;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  .color-rojo{
+    background-color: red;
+    border-radius: 10px;
+  }
+  .posicion-documento{
+    margin-left: -570px;
+  }
+  .posicion-nombre{
+    margin-left: -580px;
+  }
+  .container{
+    margin-left: 300px;
+    /* background-color: red; */
+    /* background: blue; */
+    /* margin-top: -1380px; */
+ 
+    /* display: block; */
+    
+    width: 1200px;
+  }
+  .Consulta-tabla{
+/* background-color: red; */
+/* float: right; */
+/* margin-top: 50%; */
+/* margin-right:520px ; */
+width: 970px;
+
+  }
+  .color-columna{
+    background-color:grey;
+  }
+.color-formulario{
+  background: rgb(0, 255, 242);
+
+  }
+  .titulo-usuario{
+  font-family:Roman;
+  font-size: 30px;
+  background:rgb(192, 192, 192);
+  }
+  .containerr{
+    background: red;
+  }
+.barra{
+background-color:  orange;
+margin-left: 400px;
+
+
+
+}

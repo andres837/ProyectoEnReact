@@ -1,0 +1,52 @@
+estiloFormulario{
+ 
+    width: 400px;
+    background: blue;
+    text-align: center;
+}
+.estilo2{
+    float:auto;
+    max-width: 700px;
+    margin-left:200px ;
+  
+    
+
+}
+.form-control{
+    margin-left: 40px;
+
+}
+.Aliniamiento-textos{
+    margin-right: 480px;
+    font-family: 'Roman';
+    font-size: 20px;
+}
+.Aliniamiento-texto-contraseña{
+    margin-right: 77%;
+    font-family: 'Roman';
+    font-size: 20px;
+}
+
+.mensaje{
+    color: black;
+    /* float: left; */
+    font-family: 'Segoe UI';
+    font-size: 20px;
+}
+
+.color-iniciar-sesion{
+    color: black;
+  
+}
+.container{
+  /* margin-top: 400px; */
+padding-top: 5px;
+
+
+
+}
+.error-message {
+    color: red;
+    font-size: 0.875rem; /* Tamaño del texto del mensaje de error */
+    margin-top: 0.25rem; /* Espacio entre el campo y el mensaje de error */
+}

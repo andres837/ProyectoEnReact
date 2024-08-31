@@ -1,0 +1,46 @@
+.form-control{
+    margin-left: 600px;
+}
+.formulario{
+    float: left;
+    margin-left: 200px;
+    width: 900px;
+    background-color: red;
+
+}
+.form-control{
+    
+    margin-left: 300px;
+}
+.container-estilo{
+  
+    background-color: blue;
+    width: 820px;
+    margin-left: 170px;
+    border: solid;
+
+}
+.sin-subrayado{
+    
+text-decoration: none; /* Elimina el subrayado */
+color:black;
+
+}
+.loading-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Ocupa toda la altura de la ventana */
+    text-align: center; /* Centra el texto dentro del contenedor */
+}
+
+.color-fecha{
+    color:blue;
+    font-size: 22px;
+   font-family: 'Times New Roman';
+    
+}
+
+
+   
